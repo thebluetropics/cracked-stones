@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "io.github.thebluetropics.crackedstones.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "LavaFluidMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
